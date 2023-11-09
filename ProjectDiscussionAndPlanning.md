@@ -20,3 +20,13 @@ Begin writing presentation introduction/background
 
 Meeting:
 Wednesday 9PM on Zoom
+
+Features:
+Minimum Wage - Done
+Unemployment % - Done
+GDP - Done
+Population
+Sen Political Party
+House Political Party
+inf
+Gini Coefficient - Done
