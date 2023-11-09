@@ -28,5 +28,5 @@ GDP - Done
 Population
 Sen Political Party
 House Political Party
-inf
+Inflation 
 Gini Coefficient - Done
