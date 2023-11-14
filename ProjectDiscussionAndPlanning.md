@@ -22,11 +22,23 @@ Meeting:
 Wednesday 9PM on Zoom
 
 Features:
+
 Minimum Wage - Done
+
 Unemployment % - Done
+
 GDP - Done
+
 Population
+
 Sen Political Party
+
 House Political Party
-Inflation 
+
+Inflation
+
 Gini Coefficient - Done
+
+```python
+
+```
