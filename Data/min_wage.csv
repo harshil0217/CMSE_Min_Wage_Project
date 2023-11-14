@@ -1,0 +1,716 @@
+State or other jurisdiction,Year,min_wage
+Federal (FLSA),2010,7.25
+Alabama,2010,7.25
+Alaska,2010,7.75
+Arizona,2010,7.25
+Arkansas,2010,6.25
+California,2010,8.0
+Colorado,2010,7.24
+Connecticut,2010,8.25
+Delaware,2010,7.25
+Florida,2010,7.25
+Georgia,2010,5.15
+Hawaii,2010,7.25
+Idaho,2010,7.25
+Illinois,2010,8.25
+Indiana,2010,7.25
+Iowa,2010,7.25
+Kansas,2010,7.25
+Kentucky,2010,7.25
+Louisiana,2010,7.25
+Maine,2010,7.5
+Maryland,2010,7.25
+Massachusetts,2010,8.0
+Michigan,2010,7.4
+Minnesota,2010,5.25
+Mississippi,2010,7.25
+Missouri,2010,7.25
+Montana,2010,4.0
+Nebraska,2010,7.25
+Nevada,2010,6.55
+New Hampshire,2010,7.25
+New Jersey,2010,7.25
+New Mexico,2010,7.5
+New York,2010,7.25
+North Carolina,2010,7.25
+North Dakota,2010,7.25
+Ohio,2010,7.3
+Oklahoma,2010,2.0
+Oregon,2010,8.4
+Pennsylvania,2010,7.25
+Rhode Island,2010,7.4
+South Carolina,2010,7.25
+South Dakota,2010,7.25
+Tennessee,2010,7.25
+Texas,2010,7.25
+Utah,2010,7.25
+Vermont,2010,8.06
+Virginia,2010,7.25
+Washington,2010,8.55
+West Virginia,2010,7.25
+Wisconsin,2010,7.25
+Wyoming,2010,5.15
+District of Columbia,2010,8.25
+Guam,2010,7.25
+Puerto Rico,2010,5.08
+U.S. Virgin Islands,2010,4.3
+Federal (FLSA),2011,7.25
+Alabama,2011,7.25
+Alaska,2011,7.75
+Arizona,2011,7.35
+Arkansas,2011,6.25
+California,2011,8.0
+Colorado,2011,7.36
+Connecticut,2011,8.25
+Delaware,2011,7.25
+Florida,2011,7.25
+Georgia,2011,5.15
+Hawaii,2011,7.25
+Idaho,2011,7.25
+Illinois,2011,8.25
+Indiana,2011,7.25
+Iowa,2011,7.25
+Kansas,2011,7.25
+Kentucky,2011,7.25
+Louisiana,2011,7.25
+Maine,2011,7.5
+Maryland,2011,7.25
+Massachusetts,2011,8.0
+Michigan,2011,7.4
+Minnesota,2011,5.25
+Mississippi,2011,7.25
+Missouri,2011,7.25
+Montana,2011,4.0
+Nebraska,2011,7.25
+Nevada,2011,7.25
+New Hampshire,2011,7.25
+New Jersey,2011,7.25
+New Mexico,2011,7.5
+New York,2011,7.25
+North Carolina,2011,7.25
+North Dakota,2011,7.25
+Ohio,2011,7.4
+Oklahoma,2011,2.0
+Oregon,2011,8.5
+Pennsylvania,2011,7.25
+Rhode Island,2011,7.4
+South Carolina,2011,7.25
+South Dakota,2011,7.25
+Tennessee,2011,7.25
+Texas,2011,7.25
+Utah,2011,7.25
+Vermont,2011,8.15
+Virginia,2011,7.25
+Washington,2011,8.67
+West Virginia,2011,7.25
+Wisconsin,2011,7.25
+Wyoming,2011,5.15
+District of Columbia,2011,8.25
+Guam,2011,7.25
+Puerto Rico,2011,5.08
+U.S. Virgin Islands,2011,4.3
+Federal (FLSA),2012,7.25
+Alabama,2012,7.25
+Alaska,2012,7.75
+Arizona,2012,7.65
+Arkansas,2012,6.25
+California,2012,8.0
+Colorado,2012,7.64
+Connecticut,2012,8.25
+Delaware,2012,7.25
+Florida,2012,7.67
+Georgia,2012,5.15
+Hawaii,2012,7.25
+Idaho,2012,7.25
+Illinois,2012,8.25
+Indiana,2012,7.25
+Iowa,2012,7.25
+Kansas,2012,7.25
+Kentucky,2012,7.25
+Louisiana,2012,7.25
+Maine,2012,7.5
+Maryland,2012,7.25
+Massachusetts,2012,8.0
+Michigan,2012,7.4
+Minnesota,2012,5.25
+Mississippi,2012,7.25
+Missouri,2012,7.25
+Montana,2012,4.0
+Nebraska,2012,7.25
+Nevada,2012,7.25
+New Hampshire,2012,7.25
+New Jersey,2012,7.25
+New Mexico,2012,7.5
+New York,2012,7.25
+North Carolina,2012,7.25
+North Dakota,2012,7.25
+Ohio,2012,7.7
+Oklahoma,2012,2.0
+Oregon,2012,8.8
+Pennsylvania,2012,7.25
+Rhode Island,2012,7.4
+South Carolina,2012,7.25
+South Dakota,2012,7.25
+Tennessee,2012,7.25
+Texas,2012,7.25
+Utah,2012,7.25
+Vermont,2012,8.46
+Virginia,2012,7.25
+Washington,2012,9.04
+West Virginia,2012,7.25
+Wisconsin,2012,7.25
+Wyoming,2012,5.15
+District of Columbia,2012,8.25
+Guam,2012,7.25
+Puerto Rico,2012,5.08
+U.S. Virgin Islands,2012,4.3
+Federal (FLSA),2013,7.25
+Alabama,2013,7.25
+Alaska,2013,7.75
+Arizona,2013,7.8
+Arkansas,2013,6.25
+California,2013,8.0
+Colorado,2013,7.78
+Connecticut,2013,8.25
+Delaware,2013,7.25
+Florida,2013,7.79
+Georgia,2013,5.15
+Hawaii,2013,7.25
+Idaho,2013,7.25
+Illinois,2013,8.25
+Indiana,2013,7.25
+Iowa,2013,7.25
+Kansas,2013,7.25
+Kentucky,2013,7.25
+Louisiana,2013,7.25
+Maine,2013,7.5
+Maryland,2013,7.25
+Massachusetts,2013,8.0
+Michigan,2013,7.4
+Minnesota,2013,5.25
+Mississippi,2013,7.25
+Missouri,2013,7.35
+Montana,2013,4.0
+Nebraska,2013,7.25
+Nevada,2013,7.25
+New Hampshire,2013,7.25
+New Jersey,2013,7.25
+New Mexico,2013,7.5
+New York,2013,7.25
+North Carolina,2013,7.25
+North Dakota,2013,7.25
+Ohio,2013,7.85
+Oklahoma,2013,2.0
+Oregon,2013,8.95
+Pennsylvania,2013,7.25
+Rhode Island,2013,7.75
+South Carolina,2013,7.25
+South Dakota,2013,7.25
+Tennessee,2013,7.25
+Texas,2013,7.25
+Utah,2013,7.25
+Vermont,2013,8.6
+Virginia,2013,7.25
+Washington,2013,9.19
+West Virginia,2013,7.25
+Wisconsin,2013,7.25
+Wyoming,2013,5.15
+District of Columbia,2013,8.25
+Guam,2013,7.25
+Puerto Rico,2013,5.08
+U.S. Virgin Islands,2013,4.3
+Federal (FLSA),2014,7.25
+Alabama,2014,7.25
+Alaska,2014,7.75
+Arizona,2014,7.9
+Arkansas,2014,6.25
+California,2014,9.0
+Colorado,2014,8.0
+Connecticut,2014,8.7
+Delaware,2014,7.75
+Florida,2014,7.93
+Georgia,2014,5.15
+Hawaii,2014,7.25
+Idaho,2014,7.25
+Illinois,2014,8.25
+Indiana,2014,7.25
+Iowa,2014,7.25
+Kansas,2014,7.25
+Kentucky,2014,7.25
+Louisiana,2014,7.25
+Maine,2014,7.5
+Maryland,2014,7.25
+Massachusetts,2014,8.0
+Michigan,2014,8.15
+Minnesota,2014,6.5
+Mississippi,2014,7.25
+Missouri,2014,7.5
+Montana,2014,7.9
+Nebraska,2014,7.25
+Nevada,2014,7.25
+New Hampshire,2014,7.25
+New Jersey,2014,8.25
+New Mexico,2014,7.5
+New York,2014,8.0
+North Carolina,2014,7.25
+North Dakota,2014,7.25
+Ohio,2014,7.25
+Oklahoma,2014,2.0
+Oregon,2014,9.1
+Pennsylvania,2014,7.25
+Rhode Island,2014,8.0
+South Carolina,2014,7.25
+South Dakota,2014,7.25
+Tennessee,2014,7.25
+Texas,2014,7.25
+Utah,2014,7.25
+Vermont,2014,8.73
+Virginia,2014,7.25
+Washington,2014,9.32
+West Virginia,2014,7.25
+Wisconsin,2014,7.25
+Wyoming,2014,5.15
+District of Columbia,2014,9.5
+Guam,2014,7.25
+Puerto Rico,2014,5.08
+U.S. Virgin Islands,2014,4.3
+Federal (FLSA),2015,7.25
+Alabama,2015,7.25
+Alaska,2015,8.75
+Arizona,2015,8.05
+Arkansas,2015,7.5
+California,2015,9.0
+Colorado,2015,8.23
+Connecticut,2015,9.15
+Delaware,2015,8.25
+Florida,2015,8.05
+Georgia,2015,5.15
+Hawaii,2015,7.75
+Idaho,2015,7.25
+Illinois,2015,8.25
+Indiana,2015,7.25
+Iowa,2015,7.25
+Kansas,2015,7.25
+Kentucky,2015,7.25
+Louisiana,2015,7.25
+Maine,2015,7.5
+Maryland,2015,8.25
+Massachusetts,2015,9.0
+Michigan,2015,8.15
+Minnesota,2015,7.25
+Mississippi,2015,7.25
+Missouri,2015,7.65
+Montana,2015,8.05
+Nebraska,2015,8.0
+Nevada,2015,7.25
+New Hampshire,2015,7.25
+New Jersey,2015,8.38
+New Mexico,2015,7.5
+New York,2015,8.75
+North Carolina,2015,7.25
+North Dakota,2015,7.25
+Ohio,2015,7.25
+Oklahoma,2015,2.0
+Oregon,2015,9.25
+Pennsylvania,2015,7.25
+Rhode Island,2015,9.0
+South Carolina,2015,7.25
+South Dakota,2015,8.5
+Tennessee,2015,7.25
+Texas,2015,7.25
+Utah,2015,7.25
+Vermont,2015,9.15
+Virginia,2015,7.25
+Washington,2015,9.47
+West Virginia,2015,8.0
+Wisconsin,2015,7.25
+Wyoming,2015,5.15
+District of Columbia,2015,10.5
+Guam,2015,8.25
+Puerto Rico,2015,5.08
+U.S. Virgin Islands,2015,4.3
+Federal (FLSA),2016,7.25
+Alabama,2016,7.25
+Alaska,2016,9.75
+Arizona,2016,8.05
+Arkansas,2016,8.0
+California,2016,10.0
+Colorado,2016,8.31
+Connecticut,2016,9.6
+Delaware,2016,8.25
+Florida,2016,8.05
+Georgia,2016,5.15
+Hawaii,2016,8.5
+Idaho,2016,7.25
+Illinois,2016,8.25
+Indiana,2016,7.25
+Iowa,2016,7.25
+Kansas,2016,7.25
+Kentucky,2016,7.25
+Louisiana,2016,7.25
+Maine,2016,7.5
+Maryland,2016,8.75
+Massachusetts,2016,10.0
+Michigan,2016,8.5
+Minnesota,2016,7.25
+Mississippi,2016,7.25
+Missouri,2016,7.65
+Montana,2016,8.05
+Nebraska,2016,9.0
+Nevada,2016,7.25
+New Hampshire,2016,7.25
+New Jersey,2016,8.38
+New Mexico,2016,7.5
+New York,2016,9.0
+North Carolina,2016,7.25
+North Dakota,2016,7.25
+Ohio,2016,7.25
+Oklahoma,2016,2.0
+Oregon,2016,9.75
+Pennsylvania,2016,7.25
+Rhode Island,2016,9.6
+South Carolina,2016,7.25
+South Dakota,2016,8.55
+Tennessee,2016,7.25
+Texas,2016,7.25
+Utah,2016,7.25
+Vermont,2016,9.6
+Virginia,2016,7.25
+Washington,2016,9.47
+West Virginia,2016,8.75
+Wisconsin,2016,7.25
+Wyoming,2016,5.15
+District of Columbia,2016,11.5
+Guam,2016,8.25
+Puerto Rico,2016,5.08
+U.S. Virgin Islands,2016,4.3
+Federal (FLSA),2017,7.25
+Alabama,2017,7.25
+Alaska,2017,9.8
+Arizona,2017,10.0
+Arkansas,2017,8.5
+California,2017,10.0
+Colorado,2017,9.3
+Connecticut,2017,10.1
+Delaware,2017,8.25
+Florida,2017,8.1
+Georgia,2017,5.15
+Hawaii,2017,9.25
+Idaho,2017,7.25
+Illinois,2017,8.25
+Indiana,2017,7.25
+Iowa,2017,7.25
+Kansas,2017,7.25
+Kentucky,2017,7.25
+Louisiana,2017,7.25
+Maine,2017,9.0
+Maryland,2017,8.75
+Massachusetts,2017,11.0
+Michigan,2017,8.9
+Minnesota,2017,7.75
+Mississippi,2017,7.25
+Missouri,2017,7.7
+Montana,2017,8.15
+Nebraska,2017,9.0
+Nevada,2017,7.25
+New Hampshire,2017,7.25
+New Jersey,2017,8.44
+New Mexico,2017,7.5
+New York,2017,9.7
+North Carolina,2017,7.25
+North Dakota,2017,7.25
+Ohio,2017,8.15
+Oklahoma,2017,2.0
+Oregon,2017,9.75
+Pennsylvania,2017,7.25
+Rhode Island,2017,9.6
+South Carolina,2017,7.25
+South Dakota,2017,8.65
+Tennessee,2017,7.25
+Texas,2017,7.25
+Utah,2017,7.25
+Vermont,2017,10.0
+Virginia,2017,7.25
+Washington,2017,11.0
+West Virginia,2017,8.75
+Wisconsin,2017,7.25
+Wyoming,2017,5.15
+District of Columbia,2017,11.5
+Guam,2017,8.25
+Puerto Rico,2017,5.08
+U.S. Virgin Islands,2017,4.3
+Federal (FLSA),2018,7.25
+Alabama,2018,7.25
+Alaska,2018,9.84
+Arizona,2018,10.5
+Arkansas,2018,8.5
+California,2018,11.0
+Colorado,2018,10.2
+Connecticut,2018,10.1
+Delaware,2018,8.25
+Florida,2018,8.25
+Georgia,2018,5.15
+Hawaii,2018,10.1
+Idaho,2018,7.25
+Illinois,2018,8.25
+Indiana,2018,7.25
+Iowa,2018,7.25
+Kansas,2018,7.25
+Kentucky,2018,7.25
+Louisiana,2018,7.25
+Maine,2018,10.0
+Maryland,2018,10.1
+Massachusetts,2018,11.0
+Michigan,2018,9.25
+Minnesota,2018,8.04
+Mississippi,2018,7.25
+Missouri,2018,7.85
+Montana,2018,8.3
+Nebraska,2018,9.0
+Nevada,2018,7.25
+New Hampshire,2018,7.25
+New Jersey,2018,8.6
+New Mexico,2018,7.5
+New York,2018,10.4
+North Carolina,2018,7.25
+North Dakota,2018,7.25
+Ohio,2018,8.3
+Oklahoma,2018,2.0
+Oregon,2018,10.75
+Pennsylvania,2018,7.25
+Rhode Island,2018,10.1
+South Carolina,2018,7.25
+South Dakota,2018,8.85
+Tennessee,2018,7.25
+Texas,2018,7.25
+Utah,2018,7.25
+Vermont,2018,10.5
+Virginia,2018,7.25
+Washington,2018,11.5
+West Virginia,2018,8.75
+Wisconsin,2018,7.25
+Wyoming,2018,5.15
+District of Columbia,2018,13.25
+Guam,2018,8.25
+Puerto Rico,2018,5.08
+U.S. Virgin Islands,2018,4.3
+Federal (FLSA),2019,7.25
+Alabama,2019,7.25
+Alaska,2019,10.19
+Arizona,2019,12.0
+Arkansas,2019,9.25
+California,2019,12.0
+Colorado,2019,12.0
+Connecticut,2019,11.0
+Delaware,2019,9.25
+Florida,2019,8.56
+Georgia,2019,5.15
+Hawaii,2019,10.1
+Idaho,2019,7.25
+Illinois,2019,9.25
+Indiana,2019,7.25
+Iowa,2019,7.25
+Kansas,2019,7.25
+Kentucky,2019,7.25
+Louisiana,2019,7.25
+Maine,2019,12.0
+Maryland,2019,11.0
+Massachusetts,2019,12.75
+Michigan,2019,9.65
+Minnesota,2019,8.15
+Mississippi,2019,7.25
+Missouri,2019,9.45
+Montana,2019,8.65
+Nebraska,2019,9.0
+Nevada,2019,7.25
+New Hampshire,2019,7.25
+New Jersey,2019,11.0
+New Mexico,2019,9.0
+New York,2019,11.8
+North Carolina,2019,7.25
+North Dakota,2019,7.25
+Ohio,2019,8.7
+Oklahoma,2019,2.0
+Oregon,2019,11.25
+Pennsylvania,2019,7.25
+Rhode Island,2019,10.5
+South Carolina,2019,7.25
+South Dakota,2019,9.3
+Tennessee,2019,7.25
+Texas,2019,7.25
+Utah,2019,7.25
+Vermont,2019,10.96
+Virginia,2019,7.25
+Washington,2019,13.5
+West Virginia,2019,8.75
+Wisconsin,2019,7.25
+Wyoming,2019,5.15
+District of Columbia,2019,14.0
+Guam,2019,8.25
+Puerto Rico,2019,5.08
+U.S. Virgin Islands,2019,10.5
+Federal (FLSA),2020,7.25
+Alabama,2020,7.25
+Alaska,2020,10.19
+Arizona,2020,12.0
+Arkansas,2020,10.0
+California,2020,12.0
+Colorado,2020,12.02
+Connecticut,2020,12.0
+Delaware,2020,9.25
+Florida,2020,8.56
+Georgia,2020,5.15
+Hawaii,2020,10.1
+Idaho,2020,7.25
+Illinois,2020,10.0
+Indiana,2020,7.25
+Iowa,2020,7.25
+Kansas,2020,7.25
+Kentucky,2020,7.25
+Louisiana,2020,7.25
+Maine,2020,12.0
+Maryland,2020,11.0
+Massachusetts,2020,12.75
+Michigan,2020,9.65
+Minnesota,2020,10.0
+Mississippi,2020,7.25
+Missouri,2020,9.45
+Montana,2020,8.65
+Nebraska,2020,9.0
+Nevada,2020,8.0
+New Hampshire,2020,7.25
+New Jersey,2020,11.0
+New Mexico,2020,9.0
+New York,2020,11.8
+North Carolina,2020,7.25
+North Dakota,2020,7.25
+Ohio,2020,8.7
+Oklahoma,2020,2.0
+Oregon,2020,12.0
+Pennsylvania,2020,7.25
+Rhode Island,2020,11.5
+South Carolina,2020,7.25
+South Dakota,2020,9.3
+Tennessee,2020,7.25
+Texas,2020,7.25
+Utah,2020,7.25
+Vermont,2020,10.96
+Virginia,2020,7.25
+Washington,2020,13.5
+West Virginia,2020,8.75
+Wisconsin,2020,7.25
+Wyoming,2020,5.15
+District of Columbia,2020,15.0
+Guam,2020,8.25
+Puerto Rico,2020,5.08
+U.S. Virgin Islands,2020,10.5
+Federal (FLSA),2021,7.25
+Alabama,2021,7.25
+Alaska,2021,10.34
+Arizona,2021,12.15
+Arkansas,2021,11.0
+California,2021,13.0
+Colorado,2021,12.32
+Connecticut,2021,13.0
+Delaware,2021,9.25
+Florida,2021,10.0
+Georgia,2021,5.15
+Hawaii,2021,10.1
+Idaho,2021,7.25
+Illinois,2021,11.0
+Indiana,2021,7.25
+Iowa,2021,7.25
+Kansas,2021,7.25
+Kentucky,2021,7.25
+Louisiana,2021,7.25
+Maine,2021,12.15
+Maryland,2021,11.75
+Massachusetts,2021,13.5
+Michigan,2021,9.65
+Minnesota,2021,10.08
+Mississippi,2021,7.25
+Missouri,2021,10.3
+Montana,2021,8.75
+Nebraska,2021,9.0
+Nevada,2021,8.75
+New Hampshire,2021,7.25
+New Jersey,2021,12.0
+New Mexico,2021,10.5
+New York,2021,12.5
+North Carolina,2021,7.25
+North Dakota,2021,7.25
+Ohio,2021,8.8
+Oklahoma,2021,2.0
+Oregon,2021,12.75
+Pennsylvania,2021,7.25
+Rhode Island,2021,11.5
+South Carolina,2021,7.25
+South Dakota,2021,9.45
+Tennessee,2021,7.25
+Texas,2021,7.25
+Utah,2021,7.25
+Vermont,2021,11.75
+Virginia,2021,9.5
+Washington,2021,13.69
+West Virginia,2021,8.75
+Wisconsin,2021,7.25
+Wyoming,2021,5.15
+District of Columbia,2021,15.2
+Guam,2021,8.75
+Puerto Rico,2021,5.08
+U.S. Virgin Islands,2021,10.5
+Federal (FLSA),2022,7.25
+Alabama,2022,7.25
+Alaska,2022,10.34
+Arizona,2022,12.8
+Arkansas,2022,11.0
+California,2022,14.0
+Colorado,2022,12.56
+Connecticut,2022,14.0
+Delaware,2022,10.5
+Florida,2022,10.0
+Georgia,2022,5.15
+Hawaii,2022,12.0
+Idaho,2022,7.25
+Illinois,2022,12.0
+Indiana,2022,7.25
+Iowa,2022,7.25
+Kansas,2022,7.25
+Kentucky,2022,7.25
+Louisiana,2022,7.25
+Maine,2022,12.75
+Maryland,2022,12.5
+Massachusetts,2022,14.25
+Michigan,2022,9.87
+Minnesota,2022,10.33
+Mississippi,2022,7.25
+Missouri,2022,11.15
+Montana,2022,9.2
+Nebraska,2022,9.0
+Nevada,2022,9.5
+New Hampshire,2022,7.25
+New Jersey,2022,13.0
+New Mexico,2022,11.5
+New York,2022,13.2
+North Carolina,2022,7.25
+North Dakota,2022,7.25
+Ohio,2022,9.3
+Oklahoma,2022,2.0
+Oregon,2022,13.5
+Pennsylvania,2022,7.25
+Rhode Island,2022,12.25
+South Carolina,2022,7.25
+South Dakota,2022,9.95
+Tennessee,2022,7.25
+Texas,2022,7.25
+Utah,2022,7.25
+Vermont,2022,12.55
+Virginia,2022,11.0
+Washington,2022,14.49
+West Virginia,2022,8.75
+Wisconsin,2022,7.25
+Wyoming,2022,5.15
+District of Columbia,2022,16.1
+Guam,2022,9.25
+Puerto Rico,2022,7.25
+U.S. Virgin Islands,2022,10.5
