@@ -1,5 +1,5 @@
 # CMSE_Min_Wage_Project
-Project Analyzing the Relationship Between Minimum Wage and Income Inequality
+Project Analyzing Various Factors that Contribute to Income Inequality
 
 Harshil Chidura
 
