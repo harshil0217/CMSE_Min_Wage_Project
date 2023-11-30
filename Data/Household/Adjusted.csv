@@ -1,0 +1,511 @@
+State,Year,Income
+Alabama,2019,64010.0
+Alaska,2019,89290.0
+Arizona,2019,80500.0
+Arkansas,2019,62120.0
+California,2019,88960.0
+Colorado,2019,82580.0
+Connecticut,2019,99420.0
+Delaware,2019,84510.0
+D.C.,2019,106100.0
+Florida,2019,66480.0
+Georgia,2019,64500.0
+Hawaii,2019,100200.0
+Idaho,2019,75160.0
+Illinois,2019,84740.0
+Indiana,2019,75960.0
+Iowa,2019,75240.0
+Kansas,2019,83320.0
+Kentucky,2019,63400.0
+Louisiana,2019,58890.0
+Maine,2019,75800.0
+Maryland,2019,108900.0
+Massachusetts,2019,99900.0
+Michigan,2019,73030.0
+Minnesota,2019,92740.0
+Mississippi,2019,51010.0
+Missouri,2019,69020.0
+Montana,2019,68560.0
+Nebraska,2019,83230.0
+Nevada,2019,80760.0
+New Hampshire,2019,98980.0
+New Jersey,2019,99920.0
+New Mexico,2019,60500.0
+New York,2019,81840.0
+North Carolina,2019,69660.0
+North Dakota,2019,79760.0
+Ohio,2019,73650.0
+Oklahoma,2019,67650.0
+Oregon,2019,84760.0
+Pennsylvania,2019,80390.0
+Rhode Island,2019,79900.0
+South Carolina,2019,70650.0
+South Dakota,2019,73190.0
+Tennessee,2019,64500.0
+Texas,2019,76820.0
+Utah,2019,96270.0
+Vermont,2019,84630.0
+Virginia,2019,92610.0
+Washington,2019,93910.0
+West Virginia,2019,61170.0
+Wisconsin,2019,76720.0
+Wyoming,2019,74190.0
+Alabama,2018,49936.0
+Alaska,2018,68734.0
+Arizona,2018,62283.0
+Arkansas,2018,49781.0
+California,2018,70489.0
+Colorado,2018,73034.0
+Connecticut,2018,72812.0
+Delaware,2018,65012.0
+D.C.,2018,85750.0
+Florida,2018,54644.0
+Georgia,2018,55821.0
+Hawaii,2018,80108.0
+Idaho,2018,58728.0
+Illinois,2018,70145.0
+Indiana,2018,59892.0
+Iowa,2018,68718.0
+Kansas,2018,63938.0
+Kentucky,2018,54555.0
+Louisiana,2018,49973.0
+Maine,2018,58663.0
+Maryland,2018,86223.0
+Massachusetts,2018,86345.0
+Michigan,2018,60449.0
+Minnesota,2018,71817.0
+Mississippi,2018,42781.0
+Missouri,2018,61726.0
+Montana,2018,57679.0
+Nebraska,2018,67575.0
+Nevada,2018,61864.0
+New Hampshire,2018,81346.0
+New Jersey,2018,74176.0
+New Mexico,2018,48283.0
+New York,2018,67274.0
+North Carolina,2018,53369.0
+North Dakota,2018,66505.0
+Ohio,2018,61633.0
+Oklahoma,2018,54434.0
+Oregon,2018,69165.0
+Pennsylvania,2018,64524.0
+Rhode Island,2018,62266.0
+South Carolina,2018,57444.0
+South Dakota,2018,59463.0
+Tennessee,2018,56060.0
+Texas,2018,59785.0
+Utah,2018,77067.0
+Vermont,2018,70066.0
+Virginia,2018,77151.0
+Washington,2018,79726.0
+West Virginia,2018,50573.0
+Wisconsin,2018,62629.0
+Wyoming,2018,62539.0
+Alabama,2017,50865.0
+Alaska,2017,77987.0
+Arizona,2017,59700.0
+Arkansas,2017,49751.0
+California,2017,70038.0
+Colorado,2017,74984.0
+Connecticut,2017,74304.0
+Delaware,2017,64961.0
+D.C.,2017,81282.0
+Florida,2017,53086.0
+Georgia,2017,57985.0
+Hawaii,2017,73599.0
+Idaho,2017,59497.0
+Illinois,2017,65969.0
+Indiana,2017,58767.0
+Iowa,2017,63467.0
+Kansas,2017,56900.0
+Kentucky,2017,49672.0
+Louisiana,2017,43565.0
+Maine,2017,53316.0
+Maryland,2017,82093.0
+Massachusetts,2017,76243.0
+Michigan,2017,56405.0
+Minnesota,2017,69975.0
+Mississippi,2017,43281.0
+Missouri,2017,56530.0
+Montana,2017,57407.0
+Nebraska,2017,59583.0
+Nevada,2017,58041.0
+New Hampshire,2017,75630.0
+New Jersey,2017,71240.0
+New Mexico,2017,45601.0
+New York,2017,61543.0
+North Carolina,2017,49547.0
+North Dakota,2017,60167.0
+Ohio,2017,60688.0
+Oklahoma,2017,51882.0
+Oregon,2017,62498.0
+Pennsylvania,2017,61285.0
+Rhode Island,2017,65401.0
+South Carolina,2017,54537.0
+South Dakota,2017,56914.0
+Tennessee,2017,55306.0
+Texas,2017,60092.0
+Utah,2017,69789.0
+Vermont,2017,63682.0
+Virginia,2017,70811.0
+Washington,2017,71540.0
+West Virginia,2017,46957.0
+Wisconsin,2017,63482.0
+Wyoming,2017,59536.0
+Alabama,2016,51113.0
+Alaska,2016,72231.0
+Arizona,2016,61125.0
+Arkansas,2016,48829.0
+California,2016,69759.0
+Colorado,2016,74172.0
+Connecticut,2016,72780.0
+Delaware,2016,62318.0
+D.C.,2016,83382.0
+Florida,2016,53681.0
+Georgia,2016,57016.0
+Hawaii,2016,73575.0
+Idaho,2016,60208.0
+Illinois,2016,64609.0
+Indiana,2016,58873.0
+Iowa,2016,63481.0
+Kansas,2016,57872.0
+Kentucky,2016,51348.0
+Louisiana,2016,43903.0
+Maine,2016,51664.0
+Maryland,2016,81084.0
+Massachusetts,2016,73227.0
+Michigan,2016,57700.0
+Minnesota,2016,71920.0
+Mississippi,2016,43441.0
+Missouri,2016,56885.0
+Montana,2016,59087.0
+Nebraska,2016,59619.0
+Nevada,2016,56550.0
+New Hampshire,2016,74801.0
+New Jersey,2016,72997.0
+New Mexico,2016,47855.0
+New York,2016,62447.0
+North Carolina,2016,50343.0
+North Dakota,2016,59886.0
+Ohio,2016,59768.0
+Oklahoma,2016,55006.0
+Oregon,2016,64610.0
+Pennsylvania,2016,63173.0
+Rhode Island,2016,66390.0
+South Carolina,2016,54971.0
+South Dakota,2016,56894.0
+Tennessee,2016,55240.0
+Texas,2016,59295.0
+Utah,2016,71319.0
+Vermont,2016,63805.0
+Virginia,2016,71293.0
+Washington,2016,75418.0
+West Virginia,2016,45392.0
+Wisconsin,2016,63451.0
+Wyoming,2016,57837.0
+Alabama,2015,47221.0
+Alaska,2015,75723.0
+Arizona,2015,57100.0
+Arkansas,2015,45907.0
+California,2015,66637.0
+Colorado,2015,70566.0
+Connecticut,2015,75923.0
+Delaware,2015,58046.0
+D.C.,2015,70982.0
+Florida,2015,51176.0
+Georgia,2015,53527.0
+Hawaii,2015,72133.0
+Idaho,2015,56564.0
+Illinois,2015,61386.0
+Indiana,2015,56094.0
+Iowa,2015,59094.0
+Kansas,2015,56810.0
+Kentucky,2015,45369.0
+Louisiana,2015,42196.0
+Maine,2015,50856.0
+Maryland,2015,73760.0
+Massachusetts,2015,72266.0
+Michigan,2015,57091.0
+Minnesota,2015,70218.0
+Mississippi,2015,41099.0
+Missouri,2015,55016.0
+Montana,2015,57075.0
+Nebraska,2015,59374.0
+Nevada,2015,55431.0
+New Hampshire,2015,76260.0
+New Jersey,2015,68468.0
+New Mexico,2015,48451.0
+New York,2015,61437.0
+North Carolina,2015,53764.0
+North Dakota,2015,60184.0
+Ohio,2015,53985.0
+Oklahoma,2015,50943.0
+Oregon,2015,59135.0
+Pennsylvania,2015,60979.0
+Rhode Island,2015,61528.0
+South Carolina,2015,54336.0
+South Dakota,2015,57450.0
+Tennessee,2015,51344.0
+Texas,2015,58146.0
+Utah,2015,67481.0
+Vermont,2015,60837.0
+Virginia,2015,66451.0
+Washington,2015,70310.0
+West Virginia,2015,44354.0
+Wisconsin,2015,59817.0
+Wyoming,2015,57829.0
+Alabama,2014,44509.0
+Alaska,2014,75112.0
+Arizona,2014,52248.0
+Arkansas,2014,42798.0
+California,2014,63636.0
+Colorado,2014,66596.0
+Connecticut,2014,72889.0
+Delaware,2014,57756.0
+D.C.,2014,70071.0
+Florida,2014,48825.0
+Georgia,2014,50768.0
+Hawaii,2014,64514.0
+Idaho,2014,51624.0
+Illinois,2014,60413.0
+Indiana,2014,51983.0
+Iowa,2014,60855.0
+Kansas,2014,54865.0
+Kentucky,2014,42387.0
+Louisiana,2014,45922.0
+Maine,2014,50756.0
+Maryland,2014,73594.0
+Massachusetts,2014,67861.0
+Michigan,2014,54203.0
+Minnesota,2014,68730.0
+Mississippi,2014,40037.0
+Missouri,2014,59196.0
+Montana,2014,51395.0
+Nebraska,2014,60474.0
+Nevada,2014,52008.0
+New Hampshire,2014,75675.0
+New Jersey,2014,68357.0
+New Mexico,2014,45119.0
+New York,2014,58005.0
+North Carolina,2014,50797.0
+North Dakota,2014,57415.0
+Ohio,2014,53301.0
+Oklahoma,2014,47077.0
+Oregon,2014,60834.0
+Pennsylvania,2014,60389.0
+Rhode Island,2014,55701.0
+South Carolina,2014,46360.0
+South Dakota,2014,55065.0
+Tennessee,2014,47330.0
+Texas,2014,56473.0
+Utah,2014,66258.0
+Vermont,2014,59494.0
+Virginia,2014,61486.0
+Washington,2014,67243.0
+West Virginia,2014,42824.0
+Wisconsin,2014,55425.0
+Wyoming,2014,60925.0
+Alabama,2013,42278.0
+Alaska,2013,67629.0
+Arizona,2013,49254.0
+Arkansas,2013,44922.0
+California,2013,60487.0
+Colorado,2013,60940.0
+Connecticut,2013,70161.0
+Delaware,2013,57522.0
+D.C.,2013,68277.0
+Florida,2013,46140.0
+Georgia,2013,49555.0
+Hawaii,2013,71223.0
+Idaho,2013,53438.0
+Illinois,2013,54916.0
+Indiana,2013,48060.0
+Iowa,2013,57810.0
+Kansas,2013,53444.0
+Kentucky,2013,42786.0
+Louisiana,2013,42406.0
+Maine,2013,51710.0
+Maryland,2013,76165.0
+Massachusetts,2013,63151.0
+Michigan,2013,52005.0
+Minnesota,2013,67244.0
+Mississippi,2013,35521.0
+Missouri,2013,56630.0
+Montana,2013,51102.0
+Nebraska,2013,56870.0
+Nevada,2013,49875.0
+New Hampshire,2013,73397.0
+New Jersey,2013,65243.0
+New Mexico,2013,46686.0
+New York,2013,54310.0
+North Carolina,2013,46784.0
+North Dakota,2013,60730.0
+Ohio,2013,49644.0
+Oklahoma,2013,47199.0
+Oregon,2013,58875.0
+Pennsylvania,2013,55173.0
+Rhode Island,2013,58633.0
+South Carolina,2013,44929.0
+South Dakota,2013,53053.0
+Tennessee,2013,43716.0
+Texas,2013,53875.0
+Utah,2013,63383.0
+Vermont,2013,60708.0
+Virginia,2013,66155.0
+Washington,2013,59068.0
+West Virginia,2013,39552.0
+Wisconsin,2013,58080.0
+Wyoming,2013,55690.0
+Alabama,2012,47320.0
+Alaska,2012,72472.0
+Arizona,2012,52611.0
+Arkansas,2012,39376.0
+California,2012,60794.0
+Colorado,2012,67912.0
+Connecticut,2012,69291.0
+Delaware,2012,54091.0
+D.C.,2012,60057.0
+Florida,2012,48532.0
+Georgia,2012,46992.0
+Hawaii,2012,64235.0
+Idaho,2012,48467.0
+Illinois,2012,53937.0
+Indiana,2012,49455.0
+Iowa,2012,60156.0
+Kansas,2012,47820.0
+Kentucky,2012,44879.0
+Louisiana,2012,46425.0
+Maine,2012,54957.0
+Maryland,2012,69353.0
+Massachusetts,2012,62529.0
+Michigan,2012,56567.0
+Minnesota,2012,64324.0
+Mississippi,2012,32338.0
+Missouri,2012,46303.0
+Montana,2012,43201.0
+Nebraska,2012,57623.0
+Nevada,2012,51846.0
+New Hampshire,2012,69099.0
+New Jersey,2012,63754.0
+New Mexico,2012,40166.0
+New York,2012,49966.0
+North Carolina,2012,46337.0
+North Dakota,2012,59152.0
+Ohio,2012,50748.0
+Oklahoma,2012,46162.0
+Oregon,2012,48999.0
+Pennsylvania,2012,55156.0
+Rhode Island,2012,56323.0
+South Carolina,2012,43563.0
+South Dakota,2012,53413.0
+Tennessee,2012,43361.0
+Texas,2012,51406.0
+Utah,2012,61047.0
+Vermont,2012,65513.0
+Virginia,2012,65907.0
+Washington,2012,63922.0
+West Virginia,2012,43069.0
+Wisconsin,2012,51726.0
+Wyoming,2012,67441.0
+Alabama,2011,41381.0
+Alaska,2011,61137.0
+Arizona,2011,50602.0
+Arkansas,2011,39919.0
+California,2011,57528.0
+Colorado,2011,63371.0
+Connecticut,2011,67781.0
+Delaware,2011,52219.0
+D.C.,2011,60675.0
+Florida,2011,47886.0
+Georgia,2011,47439.0
+Hawaii,2011,61408.0
+Idaho,2011,51767.0
+Illinois,2011,57196.0
+Indiana,2011,50553.0
+Iowa,2011,54855.0
+Kansas,2011,51485.0
+Kentucky,2011,42158.0
+Louisiana,2011,39622.0
+Maine,2011,50121.0
+Maryland,2011,65262.0
+Massachusetts,2011,62963.0
+Michigan,2011,48801.0
+Minnesota,2011,60907.0
+Mississippi,2011,40850.0
+Missouri,2011,50311.0
+Montana,2011,44132.0
+Nebraska,2011,53774.0
+Nevada,2011,45369.0
+New Hampshire,2011,71322.0
+New Jersey,2011,61782.0
+New Mexico,2011,42127.0
+New York,2011,53843.0
+North Carolina,2011,41208.0
+North Dakota,2011,52888.0
+Ohio,2011,46398.0
+Oklahoma,2011,43777.0
+Oregon,2011,56307.0
+Pennsylvania,2011,53952.0
+Rhode Island,2011,57812.0
+South Carolina,2011,43749.0
+South Dakota,2011,54453.0
+Tennessee,2011,42499.0
+Texas,2011,53027.0
+Utah,2011,62967.0
+Vermont,2011,54842.0
+Virginia,2011,67620.0
+Washington,2011,60106.0
+West Virginia,2011,40241.0
+Wisconsin,2011,55258.0
+Wyoming,2011,55700.0
+Alabama,2010,43464.0
+Alaska,2010,63648.0
+Arizona,2010,47044.0
+Arkansas,2010,39018.0
+California,2010,57020.0
+Colorado,2010,57255.0
+Connecticut,2010,64247.0
+Delaware,2010,48972.0
+D.C.,2010,65246.0
+Florida,2010,46071.0
+Georgia,2010,48121.0
+Hawaii,2010,56263.0
+Idaho,2010,47922.0
+Illinois,2010,51738.0
+Indiana,2010,46158.0
+Iowa,2010,53442.0
+Kansas,2010,50003.0
+Kentucky,2010,41086.0
+Louisiana,2010,39085.0
+Maine,2010,49158.0
+Maryland,2010,71836.0
+Massachusetts,2010,63656.0
+Michigan,2010,50015.0
+Minnesota,2010,61795.0
+Mississippi,2010,36641.0
+Missouri,2010,49764.0
+Montana,2010,45088.0
+Nebraska,2010,52196.0
+Nevada,2010,47333.0
+New Hampshire,2010,67819.0
+New Jersey,2010,66692.0
+New Mexico,2010,43424.0
+New York,2010,47680.0
+North Carolina,2010,41553.0
+North Dakota,2010,55766.0
+Ohio,2010,44375.0
+Oklahoma,2010,48407.0
+Oregon,2010,51775.0
+Pennsylvania,2010,51904.0
+Rhode Island,2010,56065.0
+South Carolina,2010,44401.0
+South Dakota,2010,49415.0
+Tennessee,2010,42995.0
+Texas,2010,51926.0
+Utah,2010,58341.0
+Vermont,2010,55582.0
+Virginia,2010,64632.0
+Washington,2010,62187.0
+West Virginia,2010,43553.0
+Wisconsin,2010,53079.0
+Wyoming,2010,57512.0
