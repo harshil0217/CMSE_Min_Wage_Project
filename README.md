@@ -1,15 +1,13 @@
 # CMSE_Min_Wage_Project
 Project Analyzing Various Factors that Contribute to Income Inequality
 
-Harshil Chidura
+Harshil Chidura, Viraj Shah, Shayna McConville, Tanmay Shekhar, Abigail Werthmann
 
-Viraj Shah
+# Abstract
 
-Shayna McConville
+# Repository Guide
 
-Tanmay Shekhar
-
-Abigail Werthmann
+# Roles and Responsibilities
 
 ```python
 
