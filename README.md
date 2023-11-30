@@ -7,6 +7,9 @@ Harshil Chidura, Viraj Shah, Shayna McConville, Tanmay Shekhar, Abigail Werthman
 
 # Repository Guide
 To run this repository, simply clone the repo and run the files of your choosing. All code is reproducible, so this should present no errors.
+```python
+git clone https://github.com/harshil0217/CMSE_Min_Wage_Project.git
+```
 
 This repo is divided into two main directories. "Data" and "Regression".
 
