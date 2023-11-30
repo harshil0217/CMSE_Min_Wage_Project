@@ -1,4 +1,4 @@
-State,Year,gini,min_wage,unemployment,GDP (in millions USD),Population,Residents with Bachelor's Degree or Higher,GDP per Capita,% with College Degree,Union Membership %,Income_adj_inflation,Income_unadj
+State,Year,gini,min_wage,unemployment,GDP (in millions USD),Population,Residents with Bachelor's Degree or Higher,GDP per Capita,% with College Degree,Union Membership %,Adjusted Household Income,Unadjusted Household Income
 Alabama,2010,0.472,7.25,10.375,175470.1,4785298.0,439863.0,36668.583649335946,9.191966728090915,10.1,43464.0,47624.0
 Alaska,2010,0.422,7.75,8.133333333333333,52947.7,713985.0,83346.0,74158.00051821816,11.673354482237022,22.9,63648.0,69739.0
 Arizona,2010,0.455,7.25,10.3,248125.3,6413737.0,691889.0,38686.541091410516,10.787611029264218,6.4,47044.0,51546.0
