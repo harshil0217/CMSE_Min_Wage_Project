@@ -20,3 +20,4 @@ The "Regression" directory contains the three regressions we generated from our 
 # Roles and Responsibilities
 
 Harshil - Collected data on variables, wrote OLS regression
+Shayna - Wrote the Random Forest Regression and Decision Tree visualization, made slides for the Check-in and Final Project
