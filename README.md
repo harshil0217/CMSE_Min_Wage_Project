@@ -21,3 +21,4 @@ The "Regression" directory contains the three regressions we generated from our 
 
 Harshil - Collected data on variables, wrote OLS regression
 Shayna - Wrote the Random Forest Regression and Decision Tree visualization, made slides for the Check-in and Final Project
+Tanmay - Collected household income data, wrote results part of abstract, wrote Support Vector Regression and made plots
